@@ -22,6 +22,10 @@ export default {
 <style scoped lang="scss">
 @use "../assets/scss/partials/_variables.scss" as *;
 
+.container {
+  padding-left: 10rem;
+}
+
 .content {
   background: linear-gradient(90deg, $primary-color 0%, black 100%);
   height: 400px;

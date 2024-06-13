@@ -35,7 +35,7 @@ export default {
             language ocean.Separated they live in Bookmarksgrove.
           </p>
           <div>
-            <div class="button">READ MORE</div>
+            <button class="button border-0">READ MORE</button>
           </div>
         </div>
       </div>

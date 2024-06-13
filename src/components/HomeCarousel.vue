@@ -68,8 +68,8 @@
                     <p class="mb-5">
                         Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.Separated they live in Bookmarksgrove.
                     </p>
-                    <div class="black-button">READ MORE</div>
-                    <ul class="list-group list-group-horizontal position-absolute bottom-0 mb-3">
+                    <button class="black-button">READ MORE</button>
+                    <ul class="list-group list-group-horizontal position-relative bottom-0 mb-3 mt-5">
                         <li class="list-group-item"><a class="link-dark link-offset-2 link-underline link-underline-opacity-0 fw-semibold" href="#">Facebook</a></li>
                         <li class="list-group-item"><a class="link-dark link-offset-2 link-underline link-underline-opacity-0 fw-semibold" href="#">Instagram</a></li>
                         <li class="list-group-item"><a class="link-dark link-offset-2 link-underline link-underline-opacity-0 fw-semibold" href="#">Twitter</a></li>

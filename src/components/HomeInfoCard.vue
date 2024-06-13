@@ -9,8 +9,10 @@ export default {
 </script>
 <template>
   <!--we are-->
-  <!--DA RIEMPIRE DINAMICAMENTE-->
   <div class="container-fluid main-padding">
+    <div class="container">
+      
+    </div>
     <div class="row align-items-center">
       <div class="col-4">
         <div class="h2">
@@ -18,7 +20,7 @@ export default {
           More <span class="green-text">Elegant</span> And Stylish!
         </div>
         <Separator class="py-5" />
-        <div class="button">VIEW ALL</div>
+        <button class="button border-0">VIEW ALL</button>
       </div>
       <!-- cards -->
       <div class="col-8">
@@ -26,7 +28,7 @@ export default {
           <div class="content">
             <div class="row row-cols-2 g-4">
               <div class="col">
-                <div class="card p-5 mb-2">
+                <div class="card border-0 p-5 mb-2">
                   <div>
                     <font-awesome-icon
                       class="fa-4x mb-4 icon"
@@ -41,7 +43,7 @@ export default {
                 </div>
               </div>
               <div class="col">
-                <div class="card p-5">
+                <div class="card border-0 p-5">
                   <div>
                     <font-awesome-icon
                       class="fa-4x mb-4 icon"
@@ -56,7 +58,7 @@ export default {
                 </div>
               </div>
               <div class="col">
-                <div class="card p-5">
+                <div class="card border-0 p-5">
                   <div>
                     <font-awesome-icon
                       class="fa-4x mb-4 icon"
@@ -71,7 +73,7 @@ export default {
                 </div>
               </div>
               <div class="col">
-                <div class="card p-5">
+                <div class="card border-0 p-5">
                   <div>
                     <font-awesome-icon
                       class="fa-4x mb-4 icon"
@@ -94,6 +96,11 @@ export default {
 </template>
 <style scoped lang="scss">
 @use "../assets/scss/partials/_variables.scss" as *;
+
+.container-fluid {
+  padding-left: 10rem;
+  padding-right: 10rem;
+}
 .card {
   border-radius: 10px;
   -webkit-box-shadow: 5px 4px 35px 4px rgba(126, 126, 126, 0.5);
