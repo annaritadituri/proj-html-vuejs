@@ -101,7 +101,6 @@
 @use "../assets/scss/partials/_variables.scss" as *;
 
 .content {
-    margin-left: 10rem;
 
     p:first-of-type {
         margin-top: 10rem;

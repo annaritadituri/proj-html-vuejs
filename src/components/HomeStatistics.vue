@@ -60,13 +60,6 @@ export default {
 <style scoped lang="scss">
 @use "../assets/scss/partials/_variables.scss" as *;
 
-.container-fluid {
-
-padding-right: 10rem;
-padding-left: 10rem;
-
-}
-
 .background-image {
   background-image: url("https://demo.phlox.pro/business-2/wp-content/uploads/sites/57/2018/08/person-with-long-curly-hair-PZ99QM2@2x.jpg");
   width: 100%;

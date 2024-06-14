@@ -13,7 +13,7 @@
 
 <template>
 
-    <div class="container-fluid text-center">
+    <div class="container-fluid text-center mt-5">
         <h2 class="h2">Latest News & Our <span class="secondary-color">Blog</span></h2>
         <Separator class="my-5 justify-content-center" />
         <div class="row mb-5">
@@ -61,13 +61,3 @@
     </div>
 
 </template>
-
-<style scoped>
-
-.container-fluid {
-    margin-top: 10rem;
-    padding-left: 10rem;
-    padding-right: 10rem;
-}
-
-</style>

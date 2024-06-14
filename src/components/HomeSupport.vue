@@ -51,13 +51,3 @@ export default {
     </div>
 </template>
 
-<style scoped lang="scss">
-
-.container-fluid {
-
-padding-right: 10rem;
-padding-left: 10rem;
-
-}
-
-</style>

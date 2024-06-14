@@ -39,13 +39,3 @@
 
     </div>
 </template>
-
-<style scoped>
-
-.container-fluid {
-
-    padding-right: 10rem;
-    padding-left: 10rem;
-    
-}
-</style>

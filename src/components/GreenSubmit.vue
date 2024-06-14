@@ -19,10 +19,6 @@ export default {
   </div>
 </template>
 <style scoped lang="scss">
-
-.container {
-  padding-right: 10rem;
-}
 .content {
   height: 400px;
   border-radius: 20px;

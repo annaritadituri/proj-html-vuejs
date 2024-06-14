@@ -97,10 +97,6 @@ export default {
 <style scoped lang="scss">
 @use "../assets/scss/partials/_variables.scss" as *;
 
-.container-fluid {
-  padding-left: 10rem;
-  padding-right: 10rem;
-}
 .card {
   border-radius: 10px;
   -webkit-box-shadow: 5px 4px 35px 4px rgba(126, 126, 126, 0.5);
